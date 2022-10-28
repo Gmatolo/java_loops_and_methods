@@ -1,0 +1,17 @@
+[33mcommit 4af9f2a6390a326bed72e438d5015133996031f8[m[33m ([m[1;36mHEAD -> [m[1;32msumOfNaturalNumbersLessThan1000[m[33m)[m
+Author: gmatolo <mulimatolo@gmail.com>
+Date:   Fri Oct 28 06:28:52 2022 +0000
+
+    Added a static methods that returns the sum of all natural numbers between 0 and 1000
+
+[33mcommit eba6a23c74589d90e8cf8c2fc5dcbf92808f3634[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mweekday[m[33m, [m[1;32mmaster[m[33m)[m
+Author: gmatolo <mulimatolo@gmail.com>
+Date:   Thu Oct 20 08:48:34 2022 +0000
+
+    Created main class
+
+[33mcommit c2b738e8a0d554fc3739abbb4d3d3f44a0ecf39c[m
+Author: gmatolo <mulimatolo@gmail.com>
+Date:   Thu Oct 20 08:37:54 2022 +0000
+
+    first commit

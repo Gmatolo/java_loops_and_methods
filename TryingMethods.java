@@ -6,6 +6,8 @@ public class TryingMethods {
 
     }
 
+    // A static methods that returns the sum of all natural numbers between 0 and
+    // 1000
     public static int sumOfNaturalNumberLessThan1000() {
         int result = 0;
         int num = 0;
